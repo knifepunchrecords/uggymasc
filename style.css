@@ -3,11 +3,12 @@ body {
   color: white;
   font-size: 30px;
   text-align: center;
-  padding-top: 100px;
 
 }
 h1 {
   color: white;
+  top: -100px;
+  position: relative;
 }
 
 h3 {
